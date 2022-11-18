@@ -17,7 +17,7 @@ In recent years, the field of artificial intelligence has developed rapidly. Dee
 ## Structure
 
 ```
--License Plate Recognition
+-License Plate Location
 |---models
 	|---ColorLocation.py # traditional color-based method
 	|---PlateLocation.py  # traditional shape-based method
@@ -51,7 +51,7 @@ Figure 1 The first row is the IoU of recognition results, the second row is the 
 
 <img src="https://github.com/supergirl-os/License-Plate-Recognition/raw/main/res3.png" alt="Aaron Swartz" style="zoom:67%;" />
 
-Figure 2 YOLO for locating license plates on images with different features
+Figure 2 Yolo for locating license plates on images with different features
 
 ## References
 
