@@ -43,13 +43,13 @@ In recent years, the field of artificial intelligence has developed rapidly. Dee
 
 ## Experiment Results
 
-<img src="D:%5Cpage%5CCode-sample%5CLicense%20Plate%20Recognition%5Cres2.png" style="zoom:67%;" />
+<img src="https://github.com/supergirl-os/License-Plate-Recognition/raw/main/res2.png" alt="Aaron Swartz" style="zoom:67%;" />
 
 Figure 1 The first row is the IoU of recognition results, the second row is the mask map, and the third row is the license plate detection map. （Traditional method based on both color and shape）
 
 
 
-<img src="https://s2.loli.net/2022/11/18/Bro9EanSTgc47GD.png" style="zoom: 67%;" />
+<img src="https://github.com/supergirl-os/License-Plate-Recognition/raw/main/res3.png" alt="Aaron Swartz" style="zoom:67%;" />
 
 Figure 2 YOLO for locating license plates on images with different features
 
