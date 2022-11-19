@@ -23,6 +23,7 @@ In recent years, the field of artificial intelligence has developed rapidly. Dee
 	|---PlateLocation.py  # traditional shape-based method
 	|---YOLO_detection.py # Yolo
 	|---LPRNET.py
+	|---STNet.py
 |---utils
 	|---DateLoader.py
 	|---utils.py
